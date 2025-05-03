@@ -14,7 +14,7 @@ Bienvenido al sitio oficial de **Oxi Power**, tu marca confiable de productos de
 
 Accede al sitio en línea en:
 
-👉 [https://tuusuario.github.io/oxi-power](https://bladimir591.github.io/oxi-power-productos)
+👉 (https://bladimir591.github.io/oxi-power-productos)
 
 ---
 
